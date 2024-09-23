@@ -1,0 +1,10 @@
+{
+    "i18n-ally.localesPaths": [],
+    "python.testing.pytestArgs": [
+        help
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}    true #
+print scan                                          
